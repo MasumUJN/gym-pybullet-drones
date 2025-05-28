@@ -11,7 +11,7 @@ This is a minimalist refactoring of the original `gym-pybullet-drones` repositor
 Tested on Intel x64/Ubuntu 22.04 and Apple Silicon/macOS 14.1.
 
 ```sh
-git clone https://github.com/utiasDSL/gym-pybullet-drones.git
+git clone https://github.com/MasumUJN/gym-pybullet-drones.git
 cd gym-pybullet-drones/
 
 conda create -n drones python=3.10
